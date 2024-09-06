@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: game dev
 - 🌱 I’m currently learning: physical computing/IoT
-- 👯 I’m looking to collaborate on: startup things
+- 👯 I’m looking to collaborate on: startup things/ethical tech
 - ⚡ Fun fact: former sushi chef
 
 <!--
