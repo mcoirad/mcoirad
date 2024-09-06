@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Dario, a data engineer always working on 10 different things
 
 - 🔭 I’m currently working on: game dev
-- 🌱 I’m currently learning physical computing/IoT
+- 🌱 I’m currently learning: physical computing/IoT
 - 👯 I’m looking to collaborate on: startup things
 - ⚡ Fun fact: former sushi chef
 
